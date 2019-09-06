@@ -4,3 +4,4 @@ php:
 
 install:
   - composer install
+  - yarn install
