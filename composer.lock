@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "20508d0e9dfea52018afb1623c37486d",
+    "content-hash": "02c532875428f3c85dbf6a7cc1bfb717",
     "packages": [
         {
             "name": "brick/math",
@@ -598,16 +598,16 @@
         },
         {
             "name": "laravel/ui",
-            "version": "v2.0.0",
+            "version": "v2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/ui.git",
-                "reference": "ec838c75ba1886d014c5465b1ecc79b2071f46c7"
+                "reference": "15368c5328efb7ce94f35ca750acde9b496ab1b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/ui/zipball/ec838c75ba1886d014c5465b1ecc79b2071f46c7",
-                "reference": "ec838c75ba1886d014c5465b1ecc79b2071f46c7",
+                "url": "https://api.github.com/repos/laravel/ui/zipball/15368c5328efb7ce94f35ca750acde9b496ab1b1",
+                "reference": "15368c5328efb7ce94f35ca750acde9b496ab1b1",
                 "shasum": ""
             },
             "require": {
@@ -649,7 +649,7 @@
                 "laravel",
                 "ui"
             ],
-            "time": "2020-03-03T13:43:00+00:00"
+            "time": "2020-04-29T15:06:45+00:00"
         },
         {
             "name": "league/commonmark",
