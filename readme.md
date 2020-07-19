@@ -1,6 +1,6 @@
 # Laravel Boilerplate
 
-[![Build Status](https://travis-ci.org/bervProject/LaravelBoilerplate.svg?branch=master)](https://travis-ci.org/bervProject/LaravelBoilerplate)
+[![Build Status](https://travis-ci.com/bervProject/LaravelBoilerplate.svg?branch=master)](https://travis-ci.com/bervProject/LaravelBoilerplate)
 
 Laravel Boilerplate from Bervianto Leo Pratama Starting Projects.
 
