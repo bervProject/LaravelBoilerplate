@@ -12,3 +12,4 @@ install:
 
 script:
   - vendor/bin/phpunit --coverage-html reports/
+  - bash <(curl -s https://codecov.io/bash)
