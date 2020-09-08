@@ -9,3 +9,6 @@ install:
   - yarn install
   - yarn prod
   - composer install
+
+script:
+  - vendor/bin/phpunit --coverage-html reports/
