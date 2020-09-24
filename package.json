@@ -24,6 +24,6 @@
     },
     "dependencies": {
         "buefy": "^0.9.3",
-        "vue-router": "^3.4.3"
+        "vue-router": "^3.4.4"
     }
 }
