@@ -2,6 +2,10 @@ language: php
 php:
   - '7.3'
 
+cache:
+  - yarn
+  - composer
+
 before_install:
   - nvm install lts/*
 
