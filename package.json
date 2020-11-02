@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "@mdi/font": "^5.8.55",
-        "buefy": "^0.9.3",
+        "buefy": "^0.9.4",
         "vue-router": "^3.4.8"
     }
 }
