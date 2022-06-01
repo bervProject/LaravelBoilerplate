@@ -16,7 +16,7 @@
         "laravel/sanctum": "^2.4",
         "laravel/socialite": "^5.0",
         "laravel/tinker": "^2.0",
-        "laravel/ui": "3.4.5"
+        "laravel/ui": "3.4.6"
     },
     "require-dev": {
         "facade/ignition": "^2.3.6",
