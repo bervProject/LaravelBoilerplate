@@ -24,7 +24,7 @@
         "vue-template-compiler": "^2.6.14"
     },
     "dependencies": {
-        "@mdi/font": "^6.7.96",
+        "@mdi/font": "^6.9.96",
         "buefy": "^0.9.21",
         "vue-router": "^3.5.4"
     }
