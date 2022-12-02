@@ -19,9 +19,9 @@
         "resolve-url-loader": "^5.0.0",
         "sass": "^1.56.1",
         "sass-loader": "^13.1.0",
-        "vue": "^2.7.10",
+        "vue": "^2.7.14",
         "vue-loader": "15.9.8",
-        "vue-template-compiler": "^2.7.10"
+        "vue-template-compiler": "^2.7.14"
     },
     "dependencies": {
         "@mdi/font": "^7.0.96",
