@@ -1,20 +1,13 @@
-# PHP CircleCI 2.0 configuration file
-#
-# Check https://circleci.com/docs/2.0/language-php/ for more details
-#
-version: 2
+version: 2.1
+orbs:
+  php: circleci/php@1.1.0
 jobs:
   build:
-    docker:
-      # Specify the version you desire here
-      - image: cimg/php:8.1.1-browsers
-
+    executor:
+      name: php/default
+      tag: '8.2-browsers'
     steps:
       - checkout
-
-      - run: sudo apt update # PHP CircleCI 2.0 Configuration File# PHP CircleCI 2.0 Configuration File sudo apt install zlib1g-dev libsqlite3-dev
-      # - run: sudo docker-php-ext-install zip
-
       # Download and cache dependencies
       - restore_cache:
           keys:

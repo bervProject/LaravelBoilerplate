@@ -1,15 +1,15 @@
 import './bootstrap';
-import Vue from 'vue';
-import Buefy from 'buefy';
-import 'buefy/dist/buefy.css';
+import { createApp } from 'vue';
+import Oruga from '@oruga-ui/oruga-next';
+import { bulmaConfig } from '@oruga-ui/theme-bulma';
+import '@oruga-ui/theme-bulma/dist/bulma.css';
 
 import router from './router';
 import App from './layout/App.vue';
 
-Vue.use(Buefy)
+const app = createApp(App);
 
-new Vue({
-    router,
-    el: '#app',
-    render: h => h(App)
-});
+app.use(router);
+app.use(Oruga, bulmaConfig);
+
+app.mount('#app');
