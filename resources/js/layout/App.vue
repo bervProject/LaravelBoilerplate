@@ -3,7 +3,7 @@
         <nav class="navbar" role="navigation" aria-label="main navigation">
             <div class="navbar-brand">
                 <router-link to="/" class="navbar-item">
-                    <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+                    <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28" alt="logo">
                 </router-link>
 
                 <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false"
