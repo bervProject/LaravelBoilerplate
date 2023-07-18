@@ -1,12 +1,9 @@
-import Vue from 'vue';
-import VueRouter from 'vue-router';
+import { createRouter } from 'vue-router';
 
 import Home from './views/Home.vue';
 import About from './views/About.vue';
 
-Vue.use(VueRouter);
-
-const router = new VueRouter({
+const router = createRouter({
     mode: 'history',
     routes: [
         {
