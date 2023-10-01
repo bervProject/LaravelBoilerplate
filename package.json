@@ -26,6 +26,6 @@
         "@mdi/font": "^7.2.96",
         "@oruga-ui/oruga-next": "^0.7.0",
         "@oruga-ui/theme-bulma": "^0.2.11",
-        "vue-router": "^4.2.4"
+        "vue-router": "^4.2.5"
     }
 }
