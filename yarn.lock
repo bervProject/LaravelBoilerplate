@@ -1080,10 +1080,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oruga-ui/oruga-next@^0.8.5":
-  version "0.8.5"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.8.5.tgz#3cee5422bb626e1a83d2d4388e2981082821e033"
-  integrity sha512-HnODRTrurmke7O5rRNdrbqYuNIdMrnBJ+P3jh6J7/Lk/zgMnpsObSGj/6JfQRvdf5Wq++Ch5yVUys0V4Lm08JQ==
+"@oruga-ui/oruga-next@^0.8.6":
+  version "0.8.6"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.8.6.tgz#9a5314c82fe048583aa7f38a59adaa76b96ca173"
+  integrity sha512-wpGvA8upsitsolnVPYsKIbvN4iBo3SDEkx8kWc2IN2G42YwTnh48jsySw2iKQggKla7YBzJ2zMZwFstolFrFug==
 
 "@oruga-ui/theme-bulma@^0.3.0":
   version "0.3.0"
