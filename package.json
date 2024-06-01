@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "@mdi/font": "^7.4.47",
-        "@oruga-ui/oruga-next": "^0.8.8",
+        "@oruga-ui/oruga-next": "^0.8.9",
         "@oruga-ui/theme-bulma": "^0.3.0",
         "vue-router": "^4.3.2"
     }
