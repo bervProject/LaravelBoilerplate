@@ -1135,12 +1135,12 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oruga-ui/oruga-next@^0.11.1":
-  version "0.11.1"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.11.1.tgz#0ca024b65f31044912ec66337337945a3501a5ff"
-  integrity sha512-9+SmklBjFCz2oSxEVglU6o7hC1l6L4IUTvZ6kJCS6O9TS+rU42JalfSm0Vf67HMM5EpIFhsqombFAUegW7Oc0Q==
+"@oruga-ui/oruga-next@^0.11.4":
+  version "0.11.4"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.11.4.tgz#4388158ffa9f2ef8b3f58a6f64d60bdf0345a46d"
+  integrity sha512-zeuycH6FJI5z0Ohqr41a0m8jUQ37XCV7xE46hb22MQvvHxYLnNpB21nRsSOl6qEhDX1zijj+qIaxk0R4w5+5uw==
   dependencies:
-    vue-component-type-helpers "^2.2.10"
+    vue-component-type-helpers "^3.0.2"
 
 "@oruga-ui/theme-bulma@^0.7.3":
   version "0.7.3"
@@ -5965,10 +5965,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-vue-component-type-helpers@^2.2.10:
-  version "2.2.10"
-  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-2.2.10.tgz#126a7d7258f7458c66dfe234a612500c90c4838c"
-  integrity sha512-iDUO7uQK+Sab2tYuiP9D1oLujCWlhHELHMgV/cB13cuGbG4qwkLHvtfWb6FzvxrIOPDnU0oHsz2MlQjhYDeaHA==
+vue-component-type-helpers@^3.0.2:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-3.0.4.tgz#107d678e72c5004d60663901c6222e56c707d8e3"
+  integrity sha512-WtR3kPk8vqKYfCK/HGyT47lK/T3FaVyWxaCNuosaHYE8h9/k0lYRZ/PI/+T/z2wP+uuNKmL6z30rOcBboOu/YA==
 
 vue-loader@17.4.2:
   version "17.4.2"
