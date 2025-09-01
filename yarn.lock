@@ -1135,10 +1135,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oruga-ui/oruga-next@^0.11.4":
-  version "0.11.4"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.11.4.tgz#4388158ffa9f2ef8b3f58a6f64d60bdf0345a46d"
-  integrity sha512-zeuycH6FJI5z0Ohqr41a0m8jUQ37XCV7xE46hb22MQvvHxYLnNpB21nRsSOl6qEhDX1zijj+qIaxk0R4w5+5uw==
+"@oruga-ui/oruga-next@^0.11.5":
+  version "0.11.5"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.11.5.tgz#635ae502d35e3993a3ae7fa26a497d4e9477a193"
+  integrity sha512-DSeAf144GJKt2dH2Fd3yQn3PNq1DObGs44uNTsaKvh+96WlOQuRfnCVux77YXGFGGsj+XyAWXSCAGLO+lC6g/w==
   dependencies:
     vue-component-type-helpers "^3.0.2"
 
