@@ -1135,17 +1135,17 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oruga-ui/oruga-next@^0.11.6":
-  version "0.11.6"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.11.6.tgz#cefccc0de8f5de6b2f51580c816d8108f85cfb45"
-  integrity sha512-2ymMckljKlsbe5BtQJoB4XV61PLnPdThpNJWpHjl/KLRQpAOyQK5wbsIr3sTSiYGGrwDt0IDq8bibMkJyh/7ww==
+"@oruga-ui/oruga-next@^0.12.2":
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/oruga-next/-/oruga-next-0.12.2.tgz#ebc359c029f32791ec5a979447fc1ee3d346bf41"
+  integrity sha512-ePWjNuH15KbA8cNNMBg1M+nKFkdq9c6HeQpTHSTegcy8CY6MQwVHiS5Mvdfl+befrl33/FADEUbwIL3xx/qB+Q==
   dependencies:
-    vue-component-type-helpers "^3.0.5"
+    vue-component-type-helpers "^3.1.0"
 
-"@oruga-ui/theme-bulma@^0.7.3":
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-bulma/-/theme-bulma-0.7.3.tgz#265067e82348631a143f3e4e657a69479a238dc8"
-  integrity sha512-wVFHMSO2qw8aonUfghIcnRGhJGSls8qesg5kHMOyuQOCKDmR7GLGqrNcIYvL0NyP34kP0D9r2g4mCLxdRv8vdw==
+"@oruga-ui/theme-bulma@^0.8.1":
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-bulma/-/theme-bulma-0.8.1.tgz#4242b448cd7d1972680a55fb5d8d6434acf6cf8b"
+  integrity sha512-sxfIAVIx6grLl21E9XPtMdFgquEI5Kw2snnjG8VPCoTgn4v/Ii+D/cl2K8B4cyezblJ4pjTnaMuhjEBbjBMHJg==
   dependencies:
     bulma "1.0.4"
 
@@ -5966,10 +5966,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.npmjs.org/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-vue-component-type-helpers@^3.0.5:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-3.1.0.tgz#5ec3dc5501513d4a403682522eb393b559b87eb8"
-  integrity sha512-cC1pYNRZkSS1iCvdlaMbbg2sjDwxX098FucEjtz9Yig73zYjWzQsnMe5M9H8dRNv55hAIDGUI29hF2BEUA4FMQ==
+vue-component-type-helpers@^3.1.0:
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/vue-component-type-helpers/-/vue-component-type-helpers-3.1.5.tgz#a5d2ef14d2f9ef3c53831991524421605d14ee02"
+  integrity sha512-7V3yJuNWW7/1jxCcI1CswnpDsvs02Qcx/N43LkV+ZqhLj2PKj50slUflHAroNkN4UWiYfzMUUUXiNuv9khmSpQ==
 
 vue-loader@17.4.2:
   version "17.4.2"
