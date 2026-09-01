@@ -1286,10 +1286,10 @@
   dependencies:
     vue-component-type-helpers "^3.3.3"
 
-"@oruga-ui/theme-bulma@^0.9.1":
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-bulma/-/theme-bulma-0.9.1.tgz#cde2462a13bf69d63e2f83da8b81f96e355338e5"
-  integrity sha512-90GMw93mi/KJ9llacyILQpZ/qWXerITt0VW3cK9GemwuCjdn9ZkupwNlaFvcDJT64dtalI+bhNEg5YxmD2ObSQ==
+"@oruga-ui/theme-bulma@^0.9.2":
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/@oruga-ui/theme-bulma/-/theme-bulma-0.9.2.tgz#6a59b0c5e741459a3e4a918d68aa8e265bd1de3f"
+  integrity sha512-6Nf/hnj5EJMpMAM4ZivHGt4XtU+51UawqI7R92hmHbQzOH02+zChczfwK4KRj1m+LPN63A3qTS4neh9oldTP5w==
   dependencies:
     bulma "1.0.4"
 
